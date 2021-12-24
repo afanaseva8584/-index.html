@@ -1,7 +1,6 @@
-<link rel="stylesheets" 
-href="style.css"/>
 <html>
     <head>
+    <link rel="stylesheets" href="style.css" type="text/css"/>
      <title> Сайт подарков </title>
       <body>
         <header>
